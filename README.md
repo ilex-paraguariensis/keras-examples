@@ -6,10 +6,9 @@
 
 ## Todos
 
-Computer Vision
-Simple MNIST convnet
-Image segmentation with a U-Net-like architecture
-3D image classification from CT scans
+- Simple MNIST convnet
+- Image segmentation with a U-Net-like architecture
+- 3D image classification from CT scans
 Semi-supervision and domain adaptation with AdaMatch
 Classification using Attention-based Deep Multiple Instance Learning (MIL).
 Convolutional autoencoder for image denoising
