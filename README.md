@@ -1,9 +1,11 @@
 # Maté 🧉 examples with Keras
 
+This repo will cointain all the examples in: [keras.io/examples](https://keras.io/examples) converted to [Maté](https://github.com/ilex-paraguariensis/yerbamate).
+
 ## Computer Vision
 - [Image classification from scratch](https://github.com/ilex-paraguariensis/keras-examples/tree/main/image-classification-from-scratch)
 
-
+<!--
 ## Todos
 
 - Simple MNIST convnet
@@ -158,3 +160,4 @@ Graph attention network (GAT) for node classification
 Node Classification with Graph Neural Networks
 Message-passing neural network (MPNN) for molecular property prediction
 Graph representation learning with node2vec
+-->
